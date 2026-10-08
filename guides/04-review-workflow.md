@@ -8,6 +8,10 @@ After ViralWave generates your month (around 50 posts), they land in a review sc
 
 For each post, you have four moves:
 
+<p align="center">
+  <img src="../assets/screenshot-posts.png" alt="ViralWave Studio review screen with Approve, Skip, and Edit with AI buttons" width="90%" />
+</p>
+
 | Action | What it does |
 |---|---|
 | **Approve** | The post joins your scheduled month |
