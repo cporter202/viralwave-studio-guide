@@ -111,7 +111,7 @@ This repo gives you everything to run the system yourself. But if your time is w
 - Review your month: approve, skip, or request AI edits
 - Connect your accounts and posting runs automatically across eight platforms
 
-Plans start at $9/month. Your first four posts are free — no credit card.
+Plans start at $15/month. Your first four posts are free — no credit card.
 
 **[→ Try ViralWave Studio free](https://viralwavestudio.com)**
 
