@@ -1,0 +1,7 @@
+# ViralWave MCP connection for Codex CLI
+# Copy into ~/.codex/config.toml, then run: codex mcp login viralwave
+
+[mcp_servers.viralwave]
+url = "https://viralwavestudio.com/mcp"
+default_tools_approval_mode = "writes"
+tool_timeout_sec = 60
