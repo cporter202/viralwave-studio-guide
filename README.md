@@ -1,31 +1,66 @@
-![ViralWave Studio](assets/banner.png)
+<p align="center">
+  <img src="assets/banner.png" alt="ViralWave Studio — The complete guide to content on autopilot" width="100%" />
+</p>
 
-# ViralWave Studio — The Complete Guide
+<p align="center">
+  <strong>The complete guide to putting your social media content on autopilot.</strong><br/>
+  Setup walkthrough · Features · Brand voice · Review workflow · AI agent integrations · Plans · FAQ
+</p>
 
-> Everything you need to put your social media content on autopilot: setup walkthrough, features, brand voice, review workflow, AI agent integrations, plans, and FAQ.
+<p align="center">
+  <a href="https://viralwavestudio.com"><img src="https://img.shields.io/badge/Try_it_free-4_posts_no_card-8b5cf6?style=for-the-badge" alt="Try ViralWave Studio free" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT License" /></a>
+</p>
 
-[![Visit ViralWave Studio](https://img.shields.io/badge/Try%20it%20free-ViralWave%20Studio-8b5cf6)](https://viralwavestudio.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+<p align="center">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X" />
+  <img src="https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white" alt="Threads" />
+  <img src="https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white" alt="Pinterest" />
+  <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white" alt="TikTok" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
+</p>
 
-**[→ Get 4 free posts at viralwavestudio.com](https://viralwavestudio.com)**
+---
 
 ## What is ViralWave Studio?
 
-ViralWave Studio is an AI-powered content platform that takes your marketing from manual to autopilot. Instead of generating posts one by one in a dashboard, you paste in your website — and ViralWave builds you a full month of finished social media content with captions and images, ready for your approval.
+**ViralWave Studio** is an AI-powered content platform that takes your marketing from manual to autopilot. Instead of generating posts one by one in a dashboard, you paste in your website — and ViralWave builds you a full month of finished social media content with captions and images, ready for your approval.
 
-The short version:
-
-1. **Paste your website** — ViralWave reads it and builds your brand profile automatically
-2. **Get 4 finished posts free** — real captions, real images, in minutes
-3. **Answer a short questionnaire** (and optionally upload photos) to tune your brand voice
-4. **Review your month** — approve, skip, or request AI edits, right from your phone
-5. **Connect your accounts** — posting runs automatically across 8 platforms
+```mermaid
+flowchart LR
+    A[🌐 Paste your website] --> B[✨ Get 4 free posts]
+    B --> C[🎨 Tune your brand voice]
+    C --> D[👀 Review your month]
+    D --> E[🔌 Connect your accounts]
+    E --> F[🚀 Posting on autopilot]
+    style A fill:#8b5cf6,stroke:#6d28d9,color:#fff
+    style F fill:#10b981,stroke:#059669,color:#fff
+```
 
 No blank page. No daily "what should I post." Your month of content, done.
 
-**[→ Start free at viralwavestudio.com](https://viralwavestudio.com)**
+<p align="center">
+  <a href="https://viralwavestudio.com"><strong>→ Start free at viralwavestudio.com</strong></a>
+</p>
 
-## What's in this repo
+## 📸 See it in action
+
+Your month, ready for review — approve, skip, or edit with AI:
+
+<p align="center">
+  <img src="assets/screenshot-posts.png" alt="ViralWave Studio dashboard showing a month of generated posts with Approve, Skip, and Edit with AI buttons" width="90%" />
+</p>
+
+The free preview — swipe through your first four posts:
+
+<p align="center">
+  <img src="assets/screenshot-review.png" alt="ViralWave Studio free preview: swipe right to approve, left to skip" width="70%" />
+</p>
+
+## 📚 What's in this repo
 
 | Guide | What you'll learn |
 |---|---|
@@ -40,54 +75,60 @@ No blank page. No daily "what should I post." Your month of content, done.
 
 Plus [`examples/`](examples/) with ready-to-use configs for connecting AI assistants.
 
-## The 5-minute tour
+## ⚡ The 5-minute tour
 
-**Your website becomes your content engine.** ViralWave's crawler reads your site — your services, your tone, your offers — and builds a brand profile from it. No forms to fill out, no brief to write. If you have a website, you're already 80% onboarded.
+**🌐 Your website becomes your content engine.** ViralWave's crawler reads your site — your services, your tone, your offers — and builds a brand profile from it. No forms to fill out, no brief to write. If you have a website, you're already 80% onboarded.
 
-**Four free posts, zero risk.** Before you pay anything, you get four finished posts with captions and images. Not samples, not templates — real content for your business, generated from your website. If you don't love them, you walk away having spent nothing.
+**✨ Four free posts, zero risk.** Before you pay anything, you get four finished posts with captions and images. Not samples, not templates — real content for your business, generated from your website. If you don't love them, you walk away having spent nothing.
 
-**A month of content, not a post at a time.** After you pick a plan, ViralWave generates your full month — around 50 posts with a balanced mix of educational, behind-the-scenes, social proof, story, and promotional content. You review them the way you'd swipe through photos: approve, skip, or ask the AI to revise.
+**📅 A month of content, not a post at a time.** After you pick a plan, ViralWave generates your full month — around 50 posts with a balanced mix of educational, behind-the-scenes, social proof, story, and promotional content. You review them the way you'd swipe through photos: approve, skip, or ask the AI to revise.
 
-**Publishing on autopilot.** Once your month is approved and your accounts are connected, posting runs automatically. Eight platforms, one approval.
+**🚀 Publishing on autopilot.** Once your month is approved and your accounts are connected, posting runs automatically. Eight platforms, one approval.
 
-**[→ See it for yourself — free at viralwavestudio.com](https://viralwavestudio.com)**
+<p align="center">
+  <a href="https://viralwavestudio.com"><strong>→ See it for yourself — free at viralwavestudio.com</strong></a>
+</p>
 
-## Feature highlights
+## 🧰 Feature highlights
 
-- **AI post generator** — a month of captions and creative direction from your website
-- **AI image generation** — on-brand images for every post, matched to your visual identity
-- **Video lab** — AI-generated video content for Reels, TikTok, and Shorts
-- **Blog generator** — SEO-structured blog posts that feed your social content too
-- **Face-reference brand authority** — your likeness, consistently on-brand, in generated visuals
-- **Smart scheduler** — your approved month queued across 8 platforms
-- **Analytics with AI insights** — see what's working without building spreadsheets
-- **Marketing assistant** — an AI chatbot for content strategy questions
-- **RSS-to-posts** — turn your blog or industry feeds into social content automatically
-- **AI agent integrations (MCP)** — connect Codex, ChatGPT, or Claude directly to your account
+| | |
+|---|---|
+| ✍️ **AI post generator** | A month of captions and creative direction from your website |
+| 🖼️ **AI image generation** | On-brand images for every post, matched to your visual identity |
+| 🎬 **Video lab** | AI-generated video for Reels, TikTok, and Shorts |
+| 📝 **Blog generator** | SEO-structured blog posts that feed your social content too |
+| 🙂 **Face-reference brand authority** | Your likeness, consistently on-brand, in generated visuals |
+| 🗓️ **Smart scheduler** | Your approved month queued across 8 platforms |
+| 📊 **Analytics with AI insights** | See what's working without building spreadsheets |
+| 🤖 **Marketing assistant** | An AI chatbot for content strategy questions |
+| 📡 **RSS-to-posts** | Turn your blog or industry feeds into social content automatically |
+| 🔌 **AI agent integrations (MCP)** | Connect Codex, ChatGPT, or Claude directly to your account |
 
 Deep dive: [02 — Features](guides/02-features.md)
 
-## Who it's for
+## 🎯 Who it's for
 
-- **Local businesses** — plumbers, salons, restaurants, clinics — that need to post consistently but don't have a marketing person
-- **Creators and coaches** — who live on content but are tired of the daily grind
-- **Agencies and freelancers** — managing content for multiple clients from one place
-- **Founders** — who know they should be posting and finally want it handled
+- **🏪 Local businesses** — plumbers, salons, restaurants, clinics — that need to post consistently but don't have a marketing person
+- **🎥 Creators and coaches** — who live on content but are tired of the daily grind
+- **💼 Agencies and freelancers** — managing content for multiple clients from one place
+- **🚀 Founders** — who know they should be posting and finally want it handled
 
-If you've ever thought "I know I should post more, I just don't have time" — that's the person this was built for.
+*If you've ever thought "I know I should post more, I just don't have time" — that's the person this was built for.*
 
-## Plans
+## 💳 Plans
 
-| | Starter | Pro | Powerhouse |
+| | **Starter** | **Pro** | **Powerhouse** |
 |---|---|---|---|
-| Price | $15/mo | $29/mo | $49/mo |
-| Best for | Solo operators getting consistent | Growing brands posting everywhere | Power users & teams maxing output |
+| **Price** | $15/mo | $29/mo | $49/mo |
+| **Best for** | Solo operators getting consistent | Growing brands posting everywhere | Power users & teams maxing output |
 
 Annual billing saves 20%. Full breakdown: [07 — Plans & pricing](guides/07-plans-and-pricing.md)
 
-**[→ Start with 4 free posts](https://viralwavestudio.com)**
+<p align="center">
+  <a href="https://viralwavestudio.com"><img src="https://img.shields.io/badge/Start_with_4_free_posts-8b5cf6?style=for-the-badge" alt="Start with 4 free posts" /></a>
+</p>
 
-## Connect your AI assistant
+## 🔌 Connect your AI assistant
 
 ViralWave exposes a secure MCP server at `https://viralwavestudio.com/mcp`. Connect Codex, ChatGPT, or Claude with OAuth — no API keys to manage — and ask your assistant to check your brand voice, review drafts, or queue posts.
 
@@ -99,7 +140,7 @@ url = "https://viralwavestudio.com/mcp"
 
 Full setup for all three assistants: [06 — AI agents & MCP](guides/06-ai-agents-mcp.md)
 
-## FAQ (short version)
+## ❓ FAQ (short version)
 
 **Do I need a website?** It makes onboarding dramatically better, but you can also describe your business manually.
 
@@ -111,17 +152,17 @@ Full setup for all three assistants: [06 — AI agents & MCP](guides/06-ai-agent
 
 More: [08 — FAQ](guides/08-faq.md)
 
-## Contributing
+## 🤝 Contributing
 
 Spotted something outdated in the guides? PRs welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## License
+## 📄 License
 
 MIT — see [LICENSE](LICENSE).
 
 ---
 
 <p align="center">
-  <strong>Your website in. A month of content out.</strong><br>
+  <strong>Your website in. A month of content out.</strong><br/>
   <a href="https://viralwavestudio.com">viralwavestudio.com</a>
 </p>
