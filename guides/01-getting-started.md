@@ -16,6 +16,10 @@ Within minutes, ViralWave generates **four complete posts** for your business: c
 
 These aren't samples or templates. They're real, post-ready content. This is the moment most people get it — the posts sound like their business because they were built from their business.
 
+<p align="center">
+  <img src="../assets/screenshot-review.png" alt="ViralWave Studio free preview: swipe right to approve, left to skip" width="80%" />
+</p>
+
 Your preview lasts 48 hours. If you love them, keep going. If not, you've spent nothing.
 
 **[→ Get your 4 free posts](https://viralwavestudio.com)**
