@@ -1,131 +1,127 @@
-![Content on Autopilot](assets/banner.png)
+![ViralWave Studio](assets/banner.png)
 
-# Content on Autopilot
+# ViralWave Studio — The Complete Guide
 
-> The open playbook for automating months of social media content — the system, the prompts, the templates, and the script to generate your calendar in one command.
+> Everything you need to put your social media content on autopilot: setup walkthrough, features, brand voice, review workflow, AI agent integrations, plans, and FAQ.
 
+[![Visit ViralWave Studio](https://img.shields.io/badge/Try%20it%20free-ViralWave%20Studio-8b5cf6)](https://viralwavestudio.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![ViralWave Studio](https://img.shields.io/badge/Automate%20it%20fully-ViralWave%20Studio-8b5cf6)](https://viralwavestudio.com)
 
-Posting every day is a treadmill. This repo is the off-ramp.
+**[→ Get 4 free posts at viralwavestudio.com](https://viralwavestudio.com)**
 
-Inside you'll find a complete, field-tested system for producing **a full month of social media content in a single weekend** — then scheduling it out and forgetting about it. Content pillars, copy-paste AI prompt library, platform cheat sheets, a 30-day calendar template, and a Python script that generates your whole month's calendar from a few inputs.
+## What is ViralWave Studio?
 
-And if you'd rather skip the DIY entirely: **[ViralWave Studio](https://viralwavestudio.com)** does this whole playbook on autopilot. Paste in your website, get four free finished posts in minutes, and let it build and schedule your month for you. [Try the free preview →](https://viralwavestudio.com)
+ViralWave Studio is an AI-powered content platform that takes your marketing from manual to autopilot. Instead of generating posts one by one in a dashboard, you paste in your website — and ViralWave builds you a full month of finished social media content with captions and images, ready for your approval.
+
+The short version:
+
+1. **Paste your website** — ViralWave reads it and builds your brand profile automatically
+2. **Get 4 finished posts free** — real captions, real images, in minutes
+3. **Answer a short questionnaire** (and optionally upload photos) to tune your brand voice
+4. **Review your month** — approve, skip, or request AI edits, right from your phone
+5. **Connect your accounts** — posting runs automatically across 8 platforms
+
+No blank page. No daily "what should I post." Your month of content, done.
+
+**[→ Start free at viralwavestudio.com](https://viralwavestudio.com)**
 
 ## What's in this repo
 
-| Path | What it is |
+| Guide | What you'll learn |
 |---|---|
-| `guides/01-the-system.md` | The 5-step autopilot system, start to finish |
-| `guides/02-content-pillars.md` | How to define your 4–5 content pillars (with examples for 6 business types) |
-| `guides/03-prompt-library.md` | 25+ copy-paste AI prompts for posts, hooks, captions, video scripts, and repurposing |
-| `guides/04-scheduling-and-publishing.md` | Scheduling workflow, cadence math, and platform posting guide |
-| `guides/05-measure-and-iterate.md` | What to track weekly, and how to feed wins back into the machine |
-| `templates/30-day-content-calendar.csv` | Fill-in 30-day calendar template |
-| `templates/content-brief.md` | One-page brief template for batch creation sessions |
-| `scripts/generate-calendar.py` | Generate a full 30-day content calendar from your pillars in one command |
+| [01 — Getting started](guides/01-getting-started.md) | The full onboarding flow: website → 4 free posts → your first month |
+| [02 — Features](guides/02-features.md) | Post generator, video lab, blog generator, AI images, analytics, and more |
+| [03 — Brand voice](guides/03-brand-voice.md) | How ViralWave learns to sound like you (and how to tune it) |
+| [04 — Review workflow](guides/04-review-workflow.md) | Approve, skip, edit: the 10-minute monthly review |
+| [05 — Connecting platforms](guides/05-connecting-platforms.md) | Facebook, Instagram, LinkedIn, X, Threads, Pinterest, TikTok, YouTube |
+| [06 — AI agents & MCP](guides/06-ai-agents-mcp.md) | Connect Codex, ChatGPT, and Claude straight to your ViralWave account |
+| [07 — Plans & pricing](guides/07-plans-and-pricing.md) | Starter, Pro, and Powerhouse — what you get at each tier |
+| [08 — FAQ](guides/08-faq.md) | The questions everyone asks, answered straight |
 
-## Quick start
+Plus [`examples/`](examples/) with ready-to-use configs for connecting AI assistants.
 
-**1. Read the system** — [`guides/01-the-system.md`](guides/01-the-system.md) is the 10-minute overview.
+## The 5-minute tour
 
-**2. Define your pillars** — [`guides/02-content-pillars.md`](guides/02-content-pillars.md) walks you through picking 4–5 content pillars with worked examples.
+**Your website becomes your content engine.** ViralWave's crawler reads your site — your services, your tone, your offers — and builds a brand profile from it. No forms to fill out, no brief to write. If you have a website, you're already 80% onboarded.
 
-**3. Generate your calendar:**
+**Four free posts, zero risk.** Before you pay anything, you get four finished posts with captions and images. Not samples, not templates — real content for your business, generated from your website. If you don't love them, you walk away having spent nothing.
 
-```bash
-python3 scripts/generate-calendar.py \
-  --business "Maple Street Bakery" \
-  --pillars "tips,behind-the-scenes,reviews,story,offers" \
-  --platforms "instagram,facebook,tiktok" \
-  --start 2026-11-01 \
-  --out november-calendar.csv
+**A month of content, not a post at a time.** After you pick a plan, ViralWave generates your full month — around 50 posts with a balanced mix of educational, behind-the-scenes, social proof, story, and promotional content. You review them the way you'd swipe through photos: approve, skip, or ask the AI to revise.
+
+**Publishing on autopilot.** Once your month is approved and your accounts are connected, posting runs automatically. Eight platforms, one approval.
+
+**[→ See it for yourself — free at viralwavestudio.com](https://viralwavestudio.com)**
+
+## Feature highlights
+
+- **AI post generator** — a month of captions and creative direction from your website
+- **AI image generation** — on-brand images for every post, matched to your visual identity
+- **Video lab** — AI-generated video content for Reels, TikTok, and Shorts
+- **Blog generator** — SEO-structured blog posts that feed your social content too
+- **Face-reference brand authority** — your likeness, consistently on-brand, in generated visuals
+- **Smart scheduler** — your approved month queued across 8 platforms
+- **Analytics with AI insights** — see what's working without building spreadsheets
+- **Marketing assistant** — an AI chatbot for content strategy questions
+- **RSS-to-posts** — turn your blog or industry feeds into social content automatically
+- **AI agent integrations (MCP)** — connect Codex, ChatGPT, or Claude directly to your account
+
+Deep dive: [02 — Features](guides/02-features.md)
+
+## Who it's for
+
+- **Local businesses** — plumbers, salons, restaurants, clinics — that need to post consistently but don't have a marketing person
+- **Creators and coaches** — who live on content but are tired of the daily grind
+- **Agencies and freelancers** — managing content for multiple clients from one place
+- **Founders** — who know they should be posting and finally want it handled
+
+If you've ever thought "I know I should post more, I just don't have time" — that's the person this was built for.
+
+## Plans
+
+| | Starter | Pro | Powerhouse |
+|---|---|---|---|
+| Price | $15/mo | $29/mo | $49/mo |
+| Best for | Solo operators getting consistent | Growing brands posting everywhere | Power users & teams maxing output |
+
+Annual billing saves 20%. Full breakdown: [07 — Plans & pricing](guides/07-plans-and-pricing.md)
+
+**[→ Start with 4 free posts](https://viralwavestudio.com)**
+
+## Connect your AI assistant
+
+ViralWave exposes a secure MCP server at `https://viralwavestudio.com/mcp`. Connect Codex, ChatGPT, or Claude with OAuth — no API keys to manage — and ask your assistant to check your brand voice, review drafts, or queue posts.
+
+```toml
+# Codex CLI — ~/.codex/config.toml
+[mcp_servers.viralwave]
+url = "https://viralwavestudio.com/mcp"
 ```
 
-**4. Write a month of content** — use the [`prompt library`](guides/03-prompt-library.md) to turn each calendar slot into finished posts in one batch session.
+Full setup for all three assistants: [06 — AI agents & MCP](guides/06-ai-agents-mcp.md)
 
-**5. Schedule it** — [`guides/04-scheduling-and-publishing.md`](guides/04-scheduling-and-publishing.md) covers cadence and how to queue everything at once.
+## FAQ (short version)
 
-**6. Iterate** — [`guides/05-measure-and-iterate.md`](guides/05-measure-and-iterate.md) shows you the 20-minute weekly review that makes month two better than month one.
+**Do I need a website?** It makes onboarding dramatically better, but you can also describe your business manually.
 
-## The system in 60 seconds
+**Does it actually post for me?** Yes — once you've approved your month and connected your accounts with publishing enabled, posting runs automatically.
 
-Most businesses fail at content because they create one post at a time, every day, forever. The autopilot system flips that:
+**Can I edit the AI's posts?** Every post is yours to approve, skip, edit, or send back for AI revision before anything goes live.
 
-1. **Pillars** — Define 4–5 recurring content themes so you never stare at a blank page again.
-2. **Batch** — Generate a full month of posts in one 2–3 hour session using AI prompts built for your pillars.
-3. **Visuals** — Pair every post with an image or short video (AI-generated or templated).
-4. **Schedule** — Queue the whole month across Instagram, Facebook, TikTok, LinkedIn, X, Threads, Pinterest, and YouTube.
-5. **Review** — Spend 20 minutes a week checking what landed, then feed it back in.
+**What if I hate the first 4 free posts?** Then you've learned something for free. But most people don't — they're built from your actual website, not a template.
 
-That's the whole machine. The guides in this repo walk through each step in detail, with examples.
-
-> **Want this done for you?** [ViralWave Studio](https://viralwavestudio.com) is this system, automated end to end: enter your website, get four finished posts free, approve your month, and it posts for you — across eight platforms, with AI-generated images, video, blog posts, and analytics. [Start free →](https://viralwavestudio.com)
-
-## Why this works
-
-- **Consistency beats brilliance.** Algorithms and audiences reward accounts that show up every day. A "good enough" month of daily posts outperforms five perfect posts and three weeks of silence.
-- **Batching beats willpower.** Decision fatigue is the real reason content dies. One focused session per month replaces 30 daily "what should I post?" moments.
-- **Systems beat motivation.** When the calendar, prompts, and workflow are already built, creating content is execution, not invention.
-
-## The prompt library at a glance
-
-The [`prompt library`](guides/03-prompt-library.md) includes ready-to-use prompts for:
-
-- Post ideas from a content pillar
-- Hooks and opening lines (the first 3 seconds that decide everything)
-- Full caption drafts in your brand voice
-- Carousel outlines
-- Short-form video scripts (TikTok / Reels / Shorts)
-- Repurposing one post into five formats
-- Turning customer reviews into posts
-- Seasonal and holiday content
-- Blog posts with SEO structure
-- Engagement replies and comment starters
-
-## Platform cheat sheet
-
-| Platform | Best formats | Ideal cadence | Notes |
-|---|---|---|---|
-| Instagram | Reels, carousels, stories | 4–7 posts/week | Reels get the reach, carousels get the saves |
-| TikTok | Short-form video | 3–7 posts/week | Raw and real beats polished |
-| Facebook | Video, images, links | 3–5 posts/week | Still king for local businesses and 30+ audiences |
-| LinkedIn | Text posts, carousels, video | 2–4 posts/week | Professional stories and lessons outperform company news |
-| X / Twitter | Short text, threads | 3–7 posts/week | Threads for depth, singles for presence |
-| Threads | Casual text | 3–5 posts/week | Conversational, low-production |
-| Pinterest | Vertical images | 5–10 pins/week | Evergreen traffic engine, slow burn |
-| YouTube | Shorts + long-form | 1–3 videos/week | Shorts for discovery, long-form for depth |
-
-Deep dive: [`guides/04-scheduling-and-publishing.md`](guides/04-scheduling-and-publishing.md)
-
-## Skip the DIY — put it on full autopilot
-
-This repo gives you everything to run the system yourself. But if your time is worth more than your tooling budget, here's the honest math: one batch session a month costs you 3–4 hours. [ViralWave Studio](https://viralwavestudio.com) does the entire playbook — generation, images, video, blog posts, scheduling, and analytics — while you approve posts from your phone.
-
-**How it works:**
-
-- Paste in your website — ViralWave reads it and builds your brand profile automatically
-- Get **four finished posts free**, with captions and images, in minutes
-- Answer a short questionnaire (and optionally upload photos) to tune your brand voice
-- Review your month: approve, skip, or request AI edits
-- Connect your accounts and posting runs automatically across eight platforms
-
-Plans start at $15/month. Your first four posts are free — no credit card.
-
-**[→ Try ViralWave Studio free](https://viralwavestudio.com)**
+More: [08 — FAQ](guides/08-faq.md)
 
 ## Contributing
 
-Found a great prompt? Improved the calendar script? PRs welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
+Spotted something outdated in the guides? PRs welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
-MIT — use it, remix it, build your business on it. See [LICENSE](LICENSE).
+MIT — see [LICENSE](LICENSE).
 
 ---
 
 <p align="center">
-  <strong>Built for creators who'd rather be creating.</strong><br>
-  Automate the grind at <a href="https://viralwavestudio.com">viralwavestudio.com</a>
+  <strong>Your website in. A month of content out.</strong><br>
+  <a href="https://viralwavestudio.com">viralwavestudio.com</a>
 </p>
