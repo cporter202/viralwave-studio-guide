@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+*.csv
+!templates/30-day-content-calendar.csv
+.DS_Store
