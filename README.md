@@ -150,17 +150,6 @@ ViralWave exposes a secure MCP server at `https://viralwavestudio.com/mcp`. Conn
 
 ```toml
 # Codex CLI — ~/.codex/config.toml
-<!-- AIWITHCHRIS-BANNER-START -->
-<p align="center">
-  <a href="https://aiwithchris.com" target="_blank" rel="noopener">
-    <img src=".github/assets/ai-toolkit-banner.png" alt="Hey, I'm Chris — Work Smarter, Create Faster, Earn More With AI. Join my AI Playbook at aiwithchris.com, $10/month" width="100%">
-  </a>
-</p>
-<p align="center">
-  <a href="https://aiwithchris.com"><strong>🚀 Join my AI Playbook — aiwithchris.com</strong></a><br>
-  $10/month · 3,600+ prompts · agent workflows · repo breakdowns · money ideas
-</p>
-<!-- AIWITHCHRIS-BANNER-END -->
 
 [mcp_servers.viralwave]
 url = "https://viralwavestudio.com/mcp"
@@ -194,3 +183,16 @@ MIT — see [LICENSE](LICENSE).
   <strong>Your website in. A month of content out.</strong><br/>
   <a href="https://viralwavestudio.com">viralwavestudio.com</a>
 </p>
+
+<!-- AIWITHCHRIS-BANNER-START -->
+<p align="center">
+  <a href="https://aiwithchris.com" target="_blank" rel="noopener">
+    <img src=".github/assets/ai-toolkit-banner.png" alt="Hey, I'm Chris — Work Smarter, Create Faster, Earn More With AI. Join my AI Playbook at aiwithchris.com, $10/month" width="100%">
+  </a>
+</p>
+<p align="center">
+  <a href="https://aiwithchris.com"><strong>🚀 Join my AI Playbook — aiwithchris.com</strong></a><br>
+  $10/month · 3,600+ prompts · agent workflows · repo breakdowns · money ideas
+</p>
+<!-- AIWITHCHRIS-BANNER-END -->
+
